@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const carInsuranceSchema = new mongoose.Schema({
-  insuredName2: {
+  insuredname2: {
     type: String,
     required: true,
   },
