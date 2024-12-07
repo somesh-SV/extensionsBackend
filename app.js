@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 
 const cors = require("cors");
 
-const url = "mongodb://localhost/TestDB";
+const url = "mongodb://127.0.0.1:27017/TestDB";
 
 const app = express();
 
