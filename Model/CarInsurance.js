@@ -33,7 +33,7 @@ const carInsuranceSchema = new mongoose.Schema({
     type: Number,
     required: true,
   },
-  panNumber: {
+  pannumber: {
     type: String,
     required: true,
   },
