@@ -29,7 +29,7 @@ const carInsuranceSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  invoiceValueString: {
+  invoicevalueString: {
     type: Number,
     required: true,
   },
